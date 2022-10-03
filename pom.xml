@@ -332,7 +332,7 @@
       <!-- jetty for webserver integration tests -->
       <groupId>org.eclipse.jetty</groupId>
       <artifactId>jetty-servlet</artifactId>
-      <version>9.4.42.v20210604</version>
+      <version>9.4.49.v20220914</version>
       <scope>test</scope>
     </dependency>
 
